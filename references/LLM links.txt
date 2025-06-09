@@ -1,0 +1,20 @@
+Parameter Efficient Fine Tuning (PEFT)
+	https://genai.igebra.ai/concepts/what-is-peft-parameter-efficient-fine-tuning/#:~:text=0,outputs%20adapted%20to%20the%20task.
+
+
+Quantization
+	https://medium.com/@sachinsoni600517/introduction-to-model-quantization-4effc7a17000
+	https://pypi.org/project/bitsandbytes/
+
+
+Unsloth
+	https://medium.com/aimonks/unsloth-ai-revolutionizing-ai-model-fine-tuning-579c0afbddce
+	https://huggingface.co/blog/unsloth-trl
+	
+
+Finetuning with LoRA:
+	https://medium.com/@manindersingh120996/practical-guide-to-fine-tune-llms-with-lora-c835a99d7593#:~:text=target_modules%20=%20This%20specifies%20which%20layers%20(or,the%20attention%20mechanism%20of%20a%20transformer%20model.
+	https://www.philschmid.de/fine-tune-flan-t5-peft
+	https://stackoverflow.com/questions/76768226/target-modules-for-applying-peft-lora-on-different-models
+	https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o#scrollTo=NuAx3zBeUL1q
+	
